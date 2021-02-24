@@ -59,13 +59,13 @@ This fix exerts an angle-dependent torque arising from an effective orientation 
 
 (Part of) this code has been used in the following publications:
 
-- M. Koch, M. Saphiannikova, S. Santer, O. Guskova, *. Phys. Chem. B.* (2017), 121 (37), 8854–8867
-- M. Koch, M. Saphiannikova, O. Guskova, *Langmuir* (2019), 35 (45), 14659–14669
+- M. Koch, M. Saphiannikova, S. Santer, O. Guskova, [*Phys. Chem. B.* (2017), 121 (37), 8854–8867.](https://pubs.acs.org/doi/10.1021/acs.jpcb.7b07350)
+- M. Koch, M. Saphiannikova, O. Guskova, [*Langmuir* (2019), 35 (45), 14659–14669.](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.9b02960)
 
 
 ### Sources 
 
-- [1] S. Plimpton, *J. Comput. Phys.* (1995), 117, 1–19 
+- [1] S. Plimpton, [*J. Comput. Phys.* (1995), 117, 1–19.](https://doi.org/10.1006/jcph.1995.1039)
 - [2] https://lammps.sandia.gov/
-- [3] T. C. Beutler et al., *Chem. Phys. Lett.* (1994), 222 (6), 529–539
-- [4] V. Toshchevikov, J. Ilnytskyi, M. Saphiannikova, *J. Phys. Chem. Lett.* (2017), 8, 1094–1098
+- [3] T. C. Beutler et al., [*Chem. Phys. Lett.* (1994), 222 (6), 529–539.](https://doi.org/10.1016/0009-2614(94)00397-1)
+- [4] V. Toshchevikov, J. Ilnytskyi, M. Saphiannikova, [*J. Phys. Chem. Lett.* (2017), 8, 1094–1098.](https://pubs.acs.org/doi/10.1021/acs.jpclett.7b00173)
