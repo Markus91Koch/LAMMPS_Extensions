@@ -43,7 +43,7 @@ In the current form, this code is mostly intended for atomistic simulations (`at
 
 - `fix chicken/chunk`
 
-Mainly, here the `fix_chicken_chunk` is given, which (despite the silly name) is developed for atomistic simulations of azobenzene-containing materials under UV-Vis irradiation.
+Herem the `fix chicken/chunk` is given, which (despite the silly name) is developed for atomistic simulations of azobenzene-containing materials under UV-Vis irradiation.
 
 This fix exerts an angle-dependent torque arising from an effective orientation potential that is acting on an azo-chromophore under irradiation. This potential is implemented based on the so-called orientation approach [4].
 
