@@ -24,7 +24,7 @@ By now, LAMMPS has added such Class II Soft Potentials to the official distribut
 
 They use a similar or sometimes the same notation as here.
 
-Here are also potentials provided, which output the derivatives with respect to the parameter <img src="https://render.githubusercontent.com/render/math?math=lambda"> (the coupling parameter of TI), which should only be used during a `rerun` of a trajectory in LAMMPS.
+Here are also potentials provided, which output the derivatives with respect to the parameter <img src="https://render.githubusercontent.com/render/math?math=\lambda"> (the coupling parameter of TI), which should only be used during a `rerun` of a trajectory in LAMMPS.
 
 ## Computes
 
@@ -45,7 +45,7 @@ In the current form, this code is mostly intended for atomistic simulations (`at
 
 Mainly, here the `fix_chicken_chunk` is given, which (despite the silly name) is developed for atomistic simulations of azobenzene-containing materials under UV-Vis irradiation.
 
-This fix exerts an angle-dependent torque arising from an effective orientation potential according to the so-called orientation approach [4].
+This fix exerts an angle-dependent torque arising from an effective orientation potential that is acting on an azo-chromophore under irradiation. This potential is implemented based on the so-called orientation approach [4].
 
 ## To do
 
